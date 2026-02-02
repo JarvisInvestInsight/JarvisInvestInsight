@@ -1,11 +1,7 @@
-# Hey there 👋
+### Hey 👋
 
-This is an alt account of [@d2Dreamer](https://github.com/d2Dreamer).
+Alt account of [@d2Dreamer](https://github.com/d2Dreamer) for automation and [InvestInsight](https://investinsight.io) commits. Named after Iron Man's assistant because why not.
 
-I set this up as a dedicated account for automation work and commits to [InvestInsight](https://investinsight.io) — named "Jarvis" as a nod to Iron Man's AI assistant (seemed fitting for an automation account, and honestly I just think it's funny).
+Poking around open source when I have time.
 
-When I'm not working on InvestInsight, I like to explore open source and contribute where I can. Always looking to learn and help out with interesting projects.
-
----
-
-☕ [Buy me a coffee](https://ko-fi.com/jarvisdev) if something I've built helped you out!
+☕ [ko-fi.com/jarvisdev](https://ko-fi.com/jarvisdev)
